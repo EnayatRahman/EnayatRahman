@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://www.linkedin.com/in/mohammed-enayat-ur-rahman-338014198">
+   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn Profile" />
+</a>
